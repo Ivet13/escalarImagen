@@ -1,0 +1,24 @@
+:root {
+  --naranja: rgb(221, 136, 87);
+  --azul: rgb(27, 124, 221);
+  --rosa: rgb(219, 86, 197);
+  --amarillo: rgb(243, 210, 113);
+  --lila: rgb(102, 16, 242);
+  --verde: rgb(57, 206, 57);
+  --rojo: rgb(230, 41, 16);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+}
+
+img {
+  width: 15vw;
+  height: auto;
+}
+
+.scaled{
+    transform: scale(2.0)
+}
